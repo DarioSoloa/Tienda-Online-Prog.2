@@ -1,0 +1,39 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    background: url(../archivos/imagenes/fondo.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+h3{
+    color: #1a2537;
+    font-size: 40px;
+}
+.icon{
+    text-align: center;
+    color: #999;
+    min-width: 20px;
+}
+.icon2{
+    text-align: center;
+    color: white;
+    min-width: 20px;
+    margin-right: 5px;
+}
+.nav-item{
+    border-left: 2px solid #aaa;
+}
+.card-body{
+    color: #1a2537;
+}
+.card-title{
+    color: #1a2537;
+    margin-top: 5px;
+    
+}
+.card{
+    border-radius: 2%;
+}
+.dropdown-item{
+    color: #1a2537;    
+}
